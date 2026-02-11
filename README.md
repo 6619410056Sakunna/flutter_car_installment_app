@@ -1,16 +1,5 @@
 # flutter_car_installment_app
 
-A new Flutter project.
+<img width="200" height="2532" alt="localhost_60611_(iPhone 12 Pro) (1)" src="https://github.com/user-attachments/assets/58ba4ffd-2555-4a48-a7fe-8ecf0099ce47" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="200" height="2532" alt="localhost_60611_(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/7317553d-016e-4094-af19-a4a840f132a9" />
